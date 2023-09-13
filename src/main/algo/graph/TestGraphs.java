@@ -1,4 +1,4 @@
-package algo.graph;
+package main.algo.graph;
 
 public class TestGraphs {
 

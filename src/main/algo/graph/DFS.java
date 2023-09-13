@@ -1,4 +1,4 @@
-package algo.graph;
+package main.algo.graph;
 
 import java.util.LinkedList;
 
@@ -28,7 +28,7 @@ public class DFS {
         System.out.println("Hello DFS");
 
         DFS dfs = new DFS();
-        algo.graph.TestGraphs tg = new algo.graph.TestGraphs();
+        main.algo.graph.TestGraphs tg = new main.algo.graph.TestGraphs();
 
         System.out.println("Simple");
         Node header1 = tg.prepareDefaultTestGraphs();
