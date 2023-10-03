@@ -8,6 +8,7 @@
         242. Valid Anagram  (HashMap KeySet comparison)
         1. Two Sum
         704. Binary Search
+        206. Reverse Linked List (Iteration w/ stack, exchange, Recursive)
 ``` 
 
 ### Two Pointers
