@@ -40,3 +40,9 @@
         206. Reverse Linked List (Iteration w/ stack, exchange, Recursive)
         141. Linked List Cycle (using two pointers, find cycle)
 ```
+
+### Trees
+```
+    Easy
+        226. Invert Binary Tree (Using inorder traversal)
+```
