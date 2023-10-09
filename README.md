@@ -45,4 +45,8 @@
 ```
     Easy
         226. Invert Binary Tree (Using inorder traversal)
+        104. Maximum Depth of Binary Tree
+        543. Diameter of Binary Tree (Using HashMap for efficiency in Iteration model)
+        110. Balanced Binary Tree (Using global variable)
+        100. Same Tree
 ```
