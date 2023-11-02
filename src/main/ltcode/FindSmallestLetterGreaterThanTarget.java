@@ -1,5 +1,7 @@
 package main.ltcode;
 
+import java.util.Collections;
+
 /**
  * 744. Find Smallest Letter Greater Than Target
  * Easy
@@ -38,7 +40,6 @@ public class FindSmallestLetterGreaterThanTarget {
             }
             mid = (start + end) / 2;
         }
-
         return letters[0];
     });
 
