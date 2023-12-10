@@ -1,0 +1,4720 @@
+[
+  {
+    "productOfferingId": "8ac6881f813e563e018148f844d4477b",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 30000
+      },
+      {
+        "currency": "AUD",
+        "price": 40000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 40000
+      },
+      {
+        "currency": "SGD",
+        "price": 40000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 40000
+      },
+      {
+        "currency": "JPY",
+        "price": 40000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 40000
+      },
+      {
+        "currency": "MXN",
+        "price": 580000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 580000
+      },
+      {
+        "currency": "EUR",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 30000
+      },
+      {
+        "currency": "GBP",
+        "price": 25000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 25000
+      },
+      {
+        "currency": "CAD",
+        "price": 38000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 38000
+      },
+      {
+        "currency": "USD",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 30000
+      },
+      {
+        "currency": "INR",
+        "price": 2200000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2200000
+      },
+      {
+        "currency": "BRL",
+        "price": 150000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 150000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac69db48bae83cf018baff3ba9e5799",
+    "productName": "Resume Contacts",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "N/A",
+    "purchaseType": "ONE_TIME",
+    "billingFrequency": "N/A",
+    "consumptionMarket": "N/A",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": []
+  },
+  {
+    "productOfferingId": "8ac68cea8bae70cd018bafa6c00f49d5",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "N/A",
+    "purchaseType": "ONE_TIME",
+    "billingFrequency": "N/A",
+    "consumptionMarket": "N/A",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": []
+  },
+  {
+    "productOfferingId": "8ac69b0e8a40b056018a523589412bf4",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "N/A",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "N/A",
+    "consumptionMarket": "N/A",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "AUD",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "SGD",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "MXN",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "JPY",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "EUR",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "GBP",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "CAD",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "USD",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "INR",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "BRL",
+        "price": 0,
+        "availableFrom": "2023-09-01",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac69b0e8ad15ea6018ad2d95d9a49e9",
+    "productName": "Pay Per Click / Pay Per Started Application",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "N/A",
+    "purchaseType": "EITHER",
+    "billingFrequency": "N/A",
+    "consumptionMarket": "N/A",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "AUD",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "SGD",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "MXN",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "JPY",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "EUR",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "GBP",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "CAD",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "USD",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "INR",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "BRL",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac69db48ad15ea7018ad2b6c9db451b",
+    "productName": "Pay Per Application",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "N/A",
+    "purchaseType": "EITHER",
+    "billingFrequency": "N/A",
+    "consumptionMarket": "N/A",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "USD",
+        "price": 0,
+        "availableFrom": "2023-09-26",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Promotion",
+          "discountAmount": 0,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 0
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac68bf5892b089d01892c3158d25e33",
+    "productName": "Resume Contacts",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Personal Contacts",
+    "purchaseType": "ONE_TIME",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "BR Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 15,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 15
+      },
+      {
+        "currency": "AUD",
+        "price": 25,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 25
+      },
+      {
+        "currency": "SGD",
+        "price": 25,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 25
+      },
+      {
+        "currency": "MXN",
+        "price": 300,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 300
+      },
+      {
+        "currency": "JPY",
+        "price": 25,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 25
+      },
+      {
+        "currency": "EUR",
+        "price": 15,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 15
+      },
+      {
+        "currency": "GBP",
+        "price": 15,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 15
+      },
+      {
+        "currency": "CAD",
+        "price": 25,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 25
+      },
+      {
+        "currency": "USD",
+        "price": 15,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 15
+      },
+      {
+        "currency": "INR",
+        "price": 1500,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 1500
+      },
+      {
+        "currency": "BRL",
+        "price": 80,
+        "availableFrom": "2023-07-06",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 80
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac694c688fcfc260188fe6af651693b",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Plus",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "BR Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 300,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 5500,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 5500
+      },
+      {
+        "currency": "AUD",
+        "price": 8500,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 8500
+      },
+      {
+        "currency": "SGD",
+        "price": 8000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 8000
+      },
+      {
+        "currency": "MXN",
+        "price": 111000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 111000
+      },
+      {
+        "currency": "JPY",
+        "price": 7900,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 7900
+      },
+      {
+        "currency": "EUR",
+        "price": 5500,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 5500
+      },
+      {
+        "currency": "GBP",
+        "price": 5000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 5000
+      },
+      {
+        "currency": "CAD",
+        "price": 8000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 8000
+      },
+      {
+        "currency": "USD",
+        "price": 6000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 6000
+      },
+      {
+        "currency": "INR",
+        "price": 470000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 470000
+      },
+      {
+        "currency": "BRL",
+        "price": 30000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 30000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac692ec88fcfc230188fe6b32bd767c",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Plus",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual",
+    "consumptionMarket": "BR Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 300,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 66000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 13500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 52500
+      },
+      {
+        "currency": "AUD",
+        "price": 102000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 20500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 81500
+      },
+      {
+        "currency": "SGD",
+        "price": 96000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 19500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 76500
+      },
+      {
+        "currency": "MXN",
+        "price": 1332000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 266500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1065500
+      },
+      {
+        "currency": "JPY",
+        "price": 94800,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 19000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 75800
+      },
+      {
+        "currency": "EUR",
+        "price": 66000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 13500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 52500
+      },
+      {
+        "currency": "GBP",
+        "price": 60000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 12000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 48000
+      },
+      {
+        "currency": "CAD",
+        "price": 96000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 19500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 76500
+      },
+      {
+        "currency": "USD",
+        "price": 72000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 14500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 57500
+      },
+      {
+        "currency": "INR",
+        "price": 5640000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1140000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 4500000
+      },
+      {
+        "currency": "BRL",
+        "price": 360000,
+        "availableFrom": "2023-06-27",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 72000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 288000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6832a83d0c39e0183d233e6f23eb0",
+    "productName": "Other Charges & Credits",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "N/A",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "N/A",
+    "consumptionMarket": "N/A",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "AUD",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "SGD",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "MXN",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "JPY",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "EUR",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "GBP",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "CAD",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "USD",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "INR",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "BRL",
+        "price": 0,
+        "availableFrom": "2022-10-13",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6832a828b54e701828df972eb493d",
+    "productName": "Resume - Free Trials",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "ONE_TIME",
+    "billingFrequency": "Free Trial",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 20,
+        "name": "Free Trial Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "AUD",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "SGD",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "MXN",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "JPY",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "EUR",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "GBP",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "CAD",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "USD",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "INR",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "BRL",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6832a828b54e701828df97366494c",
+    "productName": "Resume - Free Trials",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "ONE_TIME",
+    "billingFrequency": "Free Trial",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 20,
+        "name": "Free Trial Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "AUD",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "SGD",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "MXN",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "JPY",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "EUR",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "GBP",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "CAD",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "USD",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "INR",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      },
+      {
+        "currency": "BRL",
+        "price": 0,
+        "availableFrom": "2022-08-11",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 0
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f845d04799",
+    "productName": "Resume Contacts",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Shared Contacts",
+    "purchaseType": "EITHER",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 300,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 300
+      },
+      {
+        "currency": "AUD",
+        "price": 400,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 400
+      },
+      {
+        "currency": "SGD",
+        "price": 400,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 400
+      },
+      {
+        "currency": "MXN",
+        "price": 5800,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 5800
+      },
+      {
+        "currency": "JPY",
+        "price": 400,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 400
+      },
+      {
+        "currency": "EUR",
+        "price": 300,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 300
+      },
+      {
+        "currency": "GBP",
+        "price": 250,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 250
+      },
+      {
+        "currency": "CAD",
+        "price": 380,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 380
+      },
+      {
+        "currency": "USD",
+        "price": 300,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 300
+      },
+      {
+        "currency": "INR",
+        "price": 20000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 20000
+      },
+      {
+        "currency": "BRL",
+        "price": 1500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 1500
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f845274785",
+    "productName": "Resume Contacts",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Personal Contacts",
+    "purchaseType": "ONE_TIME",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 300,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 300
+      },
+      {
+        "currency": "AUD",
+        "price": 400,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 400
+      },
+      {
+        "currency": "SGD",
+        "price": 400,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 400
+      },
+      {
+        "currency": "MXN",
+        "price": 5800,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 5800
+      },
+      {
+        "currency": "JPY",
+        "price": 400,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 400
+      },
+      {
+        "currency": "EUR",
+        "price": 300,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 300
+      },
+      {
+        "currency": "GBP",
+        "price": 250,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 250
+      },
+      {
+        "currency": "CAD",
+        "price": 380,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 380
+      },
+      {
+        "currency": "USD",
+        "price": 300,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 300
+      },
+      {
+        "currency": "INR",
+        "price": 20000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 20000
+      },
+      {
+        "currency": "BRL",
+        "price": 1500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 1500
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f845a84794",
+    "productName": "Resume Contacts",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Personal Contacts",
+    "purchaseType": "ONE_TIME",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "AU Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 55,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 55
+      },
+      {
+        "currency": "AUD",
+        "price": 80,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 80
+      },
+      {
+        "currency": "SGD",
+        "price": 75,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 75
+      },
+      {
+        "currency": "MXN",
+        "price": 1200,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 1200
+      },
+      {
+        "currency": "JPY",
+        "price": 75,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 75
+      },
+      {
+        "currency": "EUR",
+        "price": 55,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 55
+      },
+      {
+        "currency": "GBP",
+        "price": 50,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 50
+      },
+      {
+        "currency": "CAD",
+        "price": 75,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 75
+      },
+      {
+        "currency": "USD",
+        "price": 60,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 60
+      },
+      {
+        "currency": "INR",
+        "price": 5000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 5000
+      },
+      {
+        "currency": "BRL",
+        "price": 300,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 300
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f843eb475d",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 12000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 12000
+      },
+      {
+        "currency": "AUD",
+        "price": 16000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 16000
+      },
+      {
+        "currency": "SGD",
+        "price": 16000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 16000
+      },
+      {
+        "currency": "JPY",
+        "price": 16000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 16000
+      },
+      {
+        "currency": "MXN",
+        "price": 230000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 230000
+      },
+      {
+        "currency": "EUR",
+        "price": 12000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 12000
+      },
+      {
+        "currency": "GBP",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 10000
+      },
+      {
+        "currency": "CAD",
+        "price": 15000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 15000
+      },
+      {
+        "currency": "USD",
+        "price": 12000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 12000
+      },
+      {
+        "currency": "INR",
+        "price": 800000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 800000
+      },
+      {
+        "currency": "BRL",
+        "price": 60000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 60000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f843c44758",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 144000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 29000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 115000
+      },
+      {
+        "currency": "AUD",
+        "price": 192000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 39000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 153000
+      },
+      {
+        "currency": "SGD",
+        "price": 192000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 39000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 153000
+      },
+      {
+        "currency": "MXN",
+        "price": 2760000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 560000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2200000
+      },
+      {
+        "currency": "JPY",
+        "price": 192000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 39000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 153000
+      },
+      {
+        "currency": "EUR",
+        "price": 144000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 29000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 115000
+      },
+      {
+        "currency": "GBP",
+        "price": 120000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 24000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 96000
+      },
+      {
+        "currency": "CAD",
+        "price": 180000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 36000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 144000
+      },
+      {
+        "currency": "USD",
+        "price": 144000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 29000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 115000
+      },
+      {
+        "currency": "INR",
+        "price": 9600000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2000000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 7600000
+      },
+      {
+        "currency": "BRL",
+        "price": 720000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 150000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 570000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f841a94712",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 360000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 72000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 288000
+      },
+      {
+        "currency": "AUD",
+        "price": 480000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 96000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 384000
+      },
+      {
+        "currency": "SGD",
+        "price": 480000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 96000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 384000
+      },
+      {
+        "currency": "MXN",
+        "price": 6960000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1390000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 5570000
+      },
+      {
+        "currency": "JPY",
+        "price": 480000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 96000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 384000
+      },
+      {
+        "currency": "EUR",
+        "price": 360000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 72000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 288000
+      },
+      {
+        "currency": "GBP",
+        "price": 300000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 60000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 240000
+      },
+      {
+        "currency": "CAD",
+        "price": 456000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 91000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 365000
+      },
+      {
+        "currency": "USD",
+        "price": 360000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 72000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 288000
+      },
+      {
+        "currency": "INR",
+        "price": 26400000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 5400000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 21000000
+      },
+      {
+        "currency": "BRL",
+        "price": 1800000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 360000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1440000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f842ab4735",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "AU Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 2000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2000
+      },
+      {
+        "currency": "AUD",
+        "price": 3000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 3000
+      },
+      {
+        "currency": "SGD",
+        "price": 3000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 3000
+      },
+      {
+        "currency": "MXN",
+        "price": 45000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 45000
+      },
+      {
+        "currency": "JPY",
+        "price": 2700,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2700
+      },
+      {
+        "currency": "EUR",
+        "price": 2000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2000
+      },
+      {
+        "currency": "GBP",
+        "price": 2000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2000
+      },
+      {
+        "currency": "CAD",
+        "price": 3000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 3000
+      },
+      {
+        "currency": "USD",
+        "price": 2500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2500
+      },
+      {
+        "currency": "INR",
+        "price": 170000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 170000
+      },
+      {
+        "currency": "BRL",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 10000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f842d1473a",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "AU Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 6500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 6500
+      },
+      {
+        "currency": "AUD",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 10000
+      },
+      {
+        "currency": "SGD",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 10000
+      },
+      {
+        "currency": "MXN",
+        "price": 130000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 130000
+      },
+      {
+        "currency": "JPY",
+        "price": 9000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 9000
+      },
+      {
+        "currency": "EUR",
+        "price": 6500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 6500
+      },
+      {
+        "currency": "GBP",
+        "price": 6000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 6000
+      },
+      {
+        "currency": "CAD",
+        "price": 9500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 9500
+      },
+      {
+        "currency": "USD",
+        "price": 7500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 7500
+      },
+      {
+        "currency": "INR",
+        "price": 550000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 550000
+      },
+      {
+        "currency": "BRL",
+        "price": 35000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 35000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f8434c4749",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual",
+    "consumptionMarket": "AU Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 24000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 5000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 19000
+      },
+      {
+        "currency": "AUD",
+        "price": 36000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 7200,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 28800
+      },
+      {
+        "currency": "SGD",
+        "price": 36000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 7200,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 28800
+      },
+      {
+        "currency": "JPY",
+        "price": 32400,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 25900
+      },
+      {
+        "currency": "MXN",
+        "price": 540000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 110000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 430000
+      },
+      {
+        "currency": "EUR",
+        "price": 24000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 5000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 19000
+      },
+      {
+        "currency": "GBP",
+        "price": 24000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 5000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 19000
+      },
+      {
+        "currency": "CAD",
+        "price": 36000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 7500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 28500
+      },
+      {
+        "currency": "USD",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 24000
+      },
+      {
+        "currency": "INR",
+        "price": 2040000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 410000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1630000
+      },
+      {
+        "currency": "BRL",
+        "price": 120000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 24000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 96000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f842f7473f",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual",
+    "consumptionMarket": "AU Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 78000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 16000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 62000
+      },
+      {
+        "currency": "AUD",
+        "price": 120000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 24000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 96000
+      },
+      {
+        "currency": "SGD",
+        "price": 120000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 24000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 96000
+      },
+      {
+        "currency": "MXN",
+        "price": 1560000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 320000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1240000
+      },
+      {
+        "currency": "JPY",
+        "price": 108000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 21600,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 86400
+      },
+      {
+        "currency": "EUR",
+        "price": 78000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 16000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 62000
+      },
+      {
+        "currency": "GBP",
+        "price": 72000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 14500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 57500
+      },
+      {
+        "currency": "CAD",
+        "price": 114000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 23000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 91000
+      },
+      {
+        "currency": "USD",
+        "price": 90000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 18000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 72000
+      },
+      {
+        "currency": "INR",
+        "price": 6600000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1320000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 5280000
+      },
+      {
+        "currency": "BRL",
+        "price": 420000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 84000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 336000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f844fd4780",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "CA Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 9000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 9000
+      },
+      {
+        "currency": "AUD",
+        "price": 13500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 13500
+      },
+      {
+        "currency": "SGD",
+        "price": 13500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 13500
+      },
+      {
+        "currency": "MXN",
+        "price": 180000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 180000
+      },
+      {
+        "currency": "JPY",
+        "price": 12000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 12000
+      },
+      {
+        "currency": "EUR",
+        "price": 9000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 9000
+      },
+      {
+        "currency": "GBP",
+        "price": 7500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 7500
+      },
+      {
+        "currency": "CAD",
+        "price": 12500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 12500
+      },
+      {
+        "currency": "USD",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 10000
+      },
+      {
+        "currency": "INR",
+        "price": 760000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 760000
+      },
+      {
+        "currency": "BRL",
+        "price": 48500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 48500
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f8423d4726",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "CA Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 21500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 21500
+      },
+      {
+        "currency": "AUD",
+        "price": 32500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 32500
+      },
+      {
+        "currency": "SGD",
+        "price": 32500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 32500
+      },
+      {
+        "currency": "JPY",
+        "price": 29000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 29000
+      },
+      {
+        "currency": "MXN",
+        "price": 430000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 430000
+      },
+      {
+        "currency": "EUR",
+        "price": 21500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 21500
+      },
+      {
+        "currency": "GBP",
+        "price": 18000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 18000
+      },
+      {
+        "currency": "CAD",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 30000
+      },
+      {
+        "currency": "USD",
+        "price": 24000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 24000
+      },
+      {
+        "currency": "INR",
+        "price": 1800000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 1800000
+      },
+      {
+        "currency": "BRL",
+        "price": 115000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 115000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f842874730",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual",
+    "consumptionMarket": "CA Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "AUD",
+        "price": 162000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 32500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 129500
+      },
+      {
+        "currency": "CHF",
+        "price": 108000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 22000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 86000
+      },
+      {
+        "currency": "SGD",
+        "price": 162000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 32500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 129500
+      },
+      {
+        "currency": "MXN",
+        "price": 2160000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 240000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1920000
+      },
+      {
+        "currency": "JPY",
+        "price": 144000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 29000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 115000
+      },
+      {
+        "currency": "EUR",
+        "price": 108000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 22000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 86000
+      },
+      {
+        "currency": "GBP",
+        "price": 90000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 18000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 72000
+      },
+      {
+        "currency": "CAD",
+        "price": 150000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 30000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 120000
+      },
+      {
+        "currency": "USD",
+        "price": 120000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 24000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 96000
+      },
+      {
+        "currency": "INR",
+        "price": 9120000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1830000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 7290000
+      },
+      {
+        "currency": "BRL",
+        "price": 582000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 116500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 465500
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f844124762",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual",
+    "consumptionMarket": "CA Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 258000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 52000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 206000
+      },
+      {
+        "currency": "AUD",
+        "price": 390000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 78000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 312000
+      },
+      {
+        "currency": "SGD",
+        "price": 390000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 78000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 312000
+      },
+      {
+        "currency": "MXN",
+        "price": 5160000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 560000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 4600000
+      },
+      {
+        "currency": "JPY",
+        "price": 348000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 70000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 278000
+      },
+      {
+        "currency": "EUR",
+        "price": 258000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 52000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 206000
+      },
+      {
+        "currency": "GBP",
+        "price": 216000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 43500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 172500
+      },
+      {
+        "currency": "CAD",
+        "price": 360000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 72000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 288000
+      },
+      {
+        "currency": "USD",
+        "price": 288000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 58000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 230000
+      },
+      {
+        "currency": "INR",
+        "price": 21600000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 4320000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 17280000
+      },
+      {
+        "currency": "BRL",
+        "price": 1380000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 280000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1100000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f84167470d",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "NZ Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 2000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2000
+      },
+      {
+        "currency": "AUD",
+        "price": 3000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 3000
+      },
+      {
+        "currency": "SGD",
+        "price": 3000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 3000
+      },
+      {
+        "currency": "MXN",
+        "price": 45000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 45000
+      },
+      {
+        "currency": "JPY",
+        "price": 2700,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2700
+      },
+      {
+        "currency": "EUR",
+        "price": 2000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2000
+      },
+      {
+        "currency": "GBP",
+        "price": 2000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2000
+      },
+      {
+        "currency": "CAD",
+        "price": 3000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 3000
+      },
+      {
+        "currency": "USD",
+        "price": 2500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 2500
+      },
+      {
+        "currency": "INR",
+        "price": 170000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 170000
+      },
+      {
+        "currency": "BRL",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 10000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f844854771",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "NZ Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 6500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 6500
+      },
+      {
+        "currency": "AUD",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 10000
+      },
+      {
+        "currency": "SGD",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 10000
+      },
+      {
+        "currency": "MXN",
+        "price": 130000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 130000
+      },
+      {
+        "currency": "JPY",
+        "price": 9000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 9000
+      },
+      {
+        "currency": "EUR",
+        "price": 6500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 6500
+      },
+      {
+        "currency": "GBP",
+        "price": 6000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 6000
+      },
+      {
+        "currency": "CAD",
+        "price": 9500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 9500
+      },
+      {
+        "currency": "USD",
+        "price": 7500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 7500
+      },
+      {
+        "currency": "INR",
+        "price": 550000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 550000
+      },
+      {
+        "currency": "BRL",
+        "price": 35000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 35000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f844384767",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual",
+    "consumptionMarket": "NZ Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 24000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 5000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 19000
+      },
+      {
+        "currency": "AUD",
+        "price": 36000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 7200,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 28800
+      },
+      {
+        "currency": "SGD",
+        "price": 36000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 7200,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 28800
+      },
+      {
+        "currency": "MXN",
+        "price": 540000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 110000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 430000
+      },
+      {
+        "currency": "JPY",
+        "price": 32400,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 25900
+      },
+      {
+        "currency": "EUR",
+        "price": 24000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 5000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 19000
+      },
+      {
+        "currency": "GBP",
+        "price": 24000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 5000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 19000
+      },
+      {
+        "currency": "CAD",
+        "price": 36000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 7500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 28500
+      },
+      {
+        "currency": "USD",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 24000
+      },
+      {
+        "currency": "INR",
+        "price": 2040000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 410000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1630000
+      },
+      {
+        "currency": "BRL",
+        "price": 120000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 24000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 96000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f844ac4776",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual",
+    "consumptionMarket": "NZ Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 78000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 16000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 62000
+      },
+      {
+        "currency": "AUD",
+        "price": 120000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 24000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 96000
+      },
+      {
+        "currency": "SGD",
+        "price": 120000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 24000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 96000
+      },
+      {
+        "currency": "MXN",
+        "price": 1560000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 320000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1240000
+      },
+      {
+        "currency": "JPY",
+        "price": 108000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 21600,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 86400
+      },
+      {
+        "currency": "EUR",
+        "price": 78000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 16000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 62000
+      },
+      {
+        "currency": "GBP",
+        "price": 72000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 14500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 57500
+      },
+      {
+        "currency": "CAD",
+        "price": 114000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 23000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 91000
+      },
+      {
+        "currency": "USD",
+        "price": 90000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 18000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 72000
+      },
+      {
+        "currency": "INR",
+        "price": 6600000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1320000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 5280000
+      },
+      {
+        "currency": "BRL",
+        "price": 420000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 84000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 336000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f84262472b",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual Billed Monthly",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 12000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2417,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 9583
+      },
+      {
+        "currency": "AUD",
+        "price": 16000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 3250,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 12750
+      },
+      {
+        "currency": "SGD",
+        "price": 16000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 3250,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 12750
+      },
+      {
+        "currency": "MXN",
+        "price": 230000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 46667,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 183333
+      },
+      {
+        "currency": "JPY",
+        "price": 16000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 3250,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 12750
+      },
+      {
+        "currency": "EUR",
+        "price": 12000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2417,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 9583
+      },
+      {
+        "currency": "GBP",
+        "price": 10000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 8000
+      },
+      {
+        "currency": "CAD",
+        "price": 15000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 3000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 12000
+      },
+      {
+        "currency": "USD",
+        "price": 12000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2417,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 9583
+      },
+      {
+        "currency": "INR",
+        "price": 800000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 166667,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 633333
+      },
+      {
+        "currency": "BRL",
+        "price": 60000,
+        "availableFrom": "2022-08-17",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 12500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 47500
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f842184721",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual Billed Monthly",
+    "consumptionMarket": "Global",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 24000
+      },
+      {
+        "currency": "AUD",
+        "price": 40000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 8000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 32000
+      },
+      {
+        "currency": "SGD",
+        "price": 40000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 8000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 32000
+      },
+      {
+        "currency": "MXN",
+        "price": 580000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 115833,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 464167
+      },
+      {
+        "currency": "JPY",
+        "price": 40000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 8000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 32000
+      },
+      {
+        "currency": "EUR",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 24000
+      },
+      {
+        "currency": "GBP",
+        "price": 25000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 5000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 20000
+      },
+      {
+        "currency": "CAD",
+        "price": 38000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 7584,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 30416
+      },
+      {
+        "currency": "USD",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 24000
+      },
+      {
+        "currency": "INR",
+        "price": 2200000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 450000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1750000
+      },
+      {
+        "currency": "BRL",
+        "price": 150000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 30000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 120000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f841f2471c",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual Billed Monthly",
+    "consumptionMarket": "AU Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 2000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 417,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1583
+      },
+      {
+        "currency": "AUD",
+        "price": 3000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 600,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2400
+      },
+      {
+        "currency": "SGD",
+        "price": 3000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 600,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2400
+      },
+      {
+        "currency": "MXN",
+        "price": 45000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 9167,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 35833
+      },
+      {
+        "currency": "JPY",
+        "price": 2700,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 540,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2160
+      },
+      {
+        "currency": "EUR",
+        "price": 2000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 417,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1583
+      },
+      {
+        "currency": "GBP",
+        "price": 2000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 417,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1583
+      },
+      {
+        "currency": "CAD",
+        "price": 3000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 625,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2375
+      },
+      {
+        "currency": "USD",
+        "price": 2500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2000
+      },
+      {
+        "currency": "INR",
+        "price": 170000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 34167,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 135833
+      },
+      {
+        "currency": "BRL",
+        "price": 10000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 8000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f841cd4717",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual Billed Monthly",
+    "consumptionMarket": "AU Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 6500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1333,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 5167
+      },
+      {
+        "currency": "AUD",
+        "price": 10000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 8000
+      },
+      {
+        "currency": "SGD",
+        "price": 10000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 8000
+      },
+      {
+        "currency": "MXN",
+        "price": 130000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 26667,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 103333
+      },
+      {
+        "currency": "JPY",
+        "price": 9000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1800,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 7200
+      },
+      {
+        "currency": "EUR",
+        "price": 6500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1333,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 5167
+      },
+      {
+        "currency": "GBP",
+        "price": 6000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1208,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 4792
+      },
+      {
+        "currency": "CAD",
+        "price": 9500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1917,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 7583
+      },
+      {
+        "currency": "USD",
+        "price": 7500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 6000
+      },
+      {
+        "currency": "INR",
+        "price": 110000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 550000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": -440000
+      },
+      {
+        "currency": "BRL",
+        "price": 35000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 7000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 28000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f84376474e",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual Billed Monthly",
+    "consumptionMarket": "CA Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 9000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1833,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 7167
+      },
+      {
+        "currency": "AUD",
+        "price": 13500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2667,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 10833
+      },
+      {
+        "currency": "SGD",
+        "price": 13500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2708,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 10792
+      },
+      {
+        "currency": "JPY",
+        "price": 12000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2400,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 9600
+      },
+      {
+        "currency": "MXN",
+        "price": 180000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 20000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 160000
+      },
+      {
+        "currency": "EUR",
+        "price": 9000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1833,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 7167
+      },
+      {
+        "currency": "GBP",
+        "price": 7500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 6000
+      },
+      {
+        "currency": "CAD",
+        "price": 12500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 10000
+      },
+      {
+        "currency": "USD",
+        "price": 10000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 8000
+      },
+      {
+        "currency": "INR",
+        "price": 760000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 152500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 607500
+      },
+      {
+        "currency": "BRL",
+        "price": 48500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 9708,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 38792
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f8431d4744",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual Billed Monthly",
+    "consumptionMarket": "CA Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 21500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 4333,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 17167
+      },
+      {
+        "currency": "AUD",
+        "price": 32500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 26000
+      },
+      {
+        "currency": "SGD",
+        "price": 32500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 26000
+      },
+      {
+        "currency": "MXN",
+        "price": 430000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 46667,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 383333
+      },
+      {
+        "currency": "JPY",
+        "price": 29000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 5800,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 23200
+      },
+      {
+        "currency": "EUR",
+        "price": 21500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 4333,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 17167
+      },
+      {
+        "currency": "GBP",
+        "price": 18000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 3625,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 14375
+      },
+      {
+        "currency": "CAD",
+        "price": 30000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 6000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 24000
+      },
+      {
+        "currency": "USD",
+        "price": 24000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 4833,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 19167
+      },
+      {
+        "currency": "INR",
+        "price": 1800000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 360000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1440000
+      },
+      {
+        "currency": "BRL",
+        "price": 115000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 23333,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 91667
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f8439d4753",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Standard",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual Billed Monthly",
+    "consumptionMarket": "NZ Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 30,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 2000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 417,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1583
+      },
+      {
+        "currency": "AUD",
+        "price": 3000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 600,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2400
+      },
+      {
+        "currency": "SGD",
+        "price": 3000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 600,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2400
+      },
+      {
+        "currency": "JPY",
+        "price": 2700,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 540,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2160
+      },
+      {
+        "currency": "MXN",
+        "price": 45000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 9167,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 35833
+      },
+      {
+        "currency": "EUR",
+        "price": 2000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 417,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1583
+      },
+      {
+        "currency": "GBP",
+        "price": 2000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 417,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 1583
+      },
+      {
+        "currency": "CAD",
+        "price": 3000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 625,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2375
+      },
+      {
+        "currency": "USD",
+        "price": 2500,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 2000
+      },
+      {
+        "currency": "INR",
+        "price": 170000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 34167,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 135833
+      },
+      {
+        "currency": "BRL",
+        "price": 10000,
+        "availableFrom": "2022-08-18",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 8000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f8445e476c",
+    "productName": "Resume",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Professional",
+    "purchaseType": "SUBSCRIPTION",
+    "billingFrequency": "Annual Billed Monthly",
+    "consumptionMarket": "NZ Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [
+      {
+        "quantity": 100,
+        "name": "Contacts"
+      }
+    ],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 6500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1333,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 5167
+      },
+      {
+        "currency": "AUD",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 8000
+      },
+      {
+        "currency": "SGD",
+        "price": 10000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 2000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 8000
+      },
+      {
+        "currency": "MXN",
+        "price": 130000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 26667,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 103333
+      },
+      {
+        "currency": "JPY",
+        "price": 9000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1800,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 7200
+      },
+      {
+        "currency": "EUR",
+        "price": 6500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1333,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 5167
+      },
+      {
+        "currency": "GBP",
+        "price": 6000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1208,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 4792
+      },
+      {
+        "currency": "CAD",
+        "price": 9500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1917,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 7583
+      },
+      {
+        "currency": "USD",
+        "price": 7500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 1500,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 6000
+      },
+      {
+        "currency": "INR",
+        "price": 550000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 110000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 440000
+      },
+      {
+        "currency": "BRL",
+        "price": 35000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": {
+          "name": "Annual Discount",
+          "discountAmount": 7000,
+          "perUnitDiscountAmount": null
+        },
+        "priceWithDiscount": 28000
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f8457e478f",
+    "productName": "Resume Contacts",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Personal Contacts",
+    "purchaseType": "ONE_TIME",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "NZ Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "CHF",
+        "price": 55,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 55
+      },
+      {
+        "currency": "AUD",
+        "price": 80,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 80
+      },
+      {
+        "currency": "SGD",
+        "price": 75,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 75
+      },
+      {
+        "currency": "MXN",
+        "price": 1200,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 1200
+      },
+      {
+        "currency": "JPY",
+        "price": 75,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 75
+      },
+      {
+        "currency": "EUR",
+        "price": 55,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 55
+      },
+      {
+        "currency": "GBP",
+        "price": 50,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 50
+      },
+      {
+        "currency": "CAD",
+        "price": 75,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 75
+      },
+      {
+        "currency": "USD",
+        "price": 60,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 60
+      },
+      {
+        "currency": "INR",
+        "price": 5000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 5000
+      },
+      {
+        "currency": "BRL",
+        "price": 300,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 300
+      }
+    ]
+  },
+  {
+    "productOfferingId": "8ac6881f813e563e018148f84552478a",
+    "productName": "Resume Contacts",
+    "productStatus": "AVAILABLE",
+    "productOfferingLevel": "Personal Contacts",
+    "purchaseType": "ONE_TIME",
+    "billingFrequency": "Monthly",
+    "consumptionMarket": "CA Local",
+    "startDate": "2022-01-01",
+    "includedProducts": [],
+    "prices": [
+      {
+        "currency": "AUD",
+        "price": 265,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 265
+      },
+      {
+        "currency": "CHF",
+        "price": 170,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 170
+      },
+      {
+        "currency": "SGD",
+        "price": 250,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 250
+      },
+      {
+        "currency": "MXN",
+        "price": 3500,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 3500
+      },
+      {
+        "currency": "JPY",
+        "price": 250,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 250
+      },
+      {
+        "currency": "EUR",
+        "price": 170,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 170
+      },
+      {
+        "currency": "GBP",
+        "price": 150,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 150
+      },
+      {
+        "currency": "CAD",
+        "price": 240,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 240
+      },
+      {
+        "currency": "USD",
+        "price": 190,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 190
+      },
+      {
+        "currency": "INR",
+        "price": 15000,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 15000
+      },
+      {
+        "currency": "BRL",
+        "price": 950,
+        "availableFrom": "2022-06-09",
+        "availableThru": "2099-12-31",
+        "discount": null,
+        "priceWithDiscount": 950
+      }
+    ]
+  }
+]

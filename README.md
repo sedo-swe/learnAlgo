@@ -49,4 +49,24 @@
         543. Diameter of Binary Tree (Using HashMap for efficiency in Iteration model)
         110. Balanced Binary Tree (Using global variable)
         100. Same Tree
+        572. Subtree fo Another Tree
+```
+
+### 1-D Dynamic Programming
+```
+    Easy
+        70. Climbing Stairs
+        746. Min Cost Climbing Stairs
+```
+
+### Intervals
+```
+    Easy
+        252. Meeting Rooms
+```
+
+### Math & Geometry
+```
+    Easy
+        202. Happy Number
 ```
