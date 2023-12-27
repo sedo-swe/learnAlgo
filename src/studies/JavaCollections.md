@@ -27,3 +27,32 @@
 ### Map Interface ###
 1. ***TreeMap***
    1. All elements in the map are sorted by key.
+
+2. ***HashMap***
+   1. Usage:
+      1. HashMap<K, V> map = new HashMap<>();
+      2. Put data
+         1. HashMap<String, Integer> map = new HashMap<>();
+         2. map.put("S1", 3);
+         3. map.put("S2", map.getOrDefault("S2", 0) + 1);
+      3. Get data
+         1. HashMap<String, Integer> map = new HashMap<>();
+         2. map.get("S1");
+         3. map.getOrDefault("S2", 0);
+      4. Iterate
+         1. Using Key Set
+         ```java
+         HashMap<Integer, Integer> frequency = new HashMap<>();
+         Set<Integer> keys = frequency.keySet();
+         for (Integer i : keys) {
+             order.add(new AbstractMap.SimpleEntry<>(i, frequency.get(i)));
+         }
+         ```
+         2. Using Entry Set
+         ```java
+         Map<Integer,Integer> map = new HashMap();
+         for(Map.Entry<Integer,Integer> entry : map.entrySet()) {
+             pq.add(new Node(entry.getKey(), entry.getValue()));
+         }
+         ```
+          

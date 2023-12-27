@@ -7,12 +7,17 @@
         217. Contains Duplicate (Insertion Sort Algorithm)
         242. Valid Anagram  (HashMap KeySet comparison)
         1. Two Sum
+        
+    Medium
+        347. Top K Frequent Elements
 ``` 
 
 ### Two Pointers
 ```
     Easy
         125. Valid Palindrome
+    Medium
+        86. Partition List (Linked List)
 ```
 
 ### Sliding Window
@@ -70,3 +75,13 @@
     Easy
         202. Happy Number
 ```
+
+### Bit Manipulation
+```
+    Easy
+        190. Reverse Bits
+```
+
+
+
+SortList : Find middle of linked list

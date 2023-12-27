@@ -1,4 +1,4 @@
-package main.ltcode;
+package main.ltcode.math_n_geometry;
 
 import java.util.HashSet;
 import java.util.Set;
