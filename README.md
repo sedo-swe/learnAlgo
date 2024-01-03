@@ -18,24 +18,31 @@
         125. Valid Palindrome
     Medium
         86. Partition List (Linked List)
+        167. Two Sum II - Input Array Is Sorted
 ```
 
 ### Sliding Window
 ```
     Easy
         121. Best Time to Buy and Sell Stock
+    Medium
+        3. Longest Substring Without Repeating Characters
 ```
 
 ### Stack
 ```
     Easy
         20. Valid Parentheses
+    Medium
+        155. Min Stack
 ```
 
 ### Binary Search
 ```
     Easy
         704. Binary Search
+    Medium
+        74. Search a 2D MatrixW
 ```
 
 ### Linked List

@@ -18,7 +18,7 @@ test2_1[0] = 1;
 
 ## Bit Manipulation
 1. Bitwise operations cheat sheet (https://nicolwk.medium.com/bitwise-operations-cheat-sheet-743e09aec5b5)
-```agsl
+```java
 ** Operators
 AND         &
 OR          |
@@ -29,4 +29,11 @@ Right shift >>
 
 ```
    
+## String related
+1. StringBuilder, StringBuffer
+```java
+- setLength(int newLength)
+==> Reduce the length of current string, or append null characters
+    Check easy.BinaryTreePaths
 
+```
