@@ -66,6 +66,13 @@
         235. Lowest Common Ancestor of a Binary Search Tree
 ```
 
+### Tries
+```
+    Medium
+        208. Implement Trie (Prefix Tree) -- using fixed size array to store strings
+
+```
+
 ### 1-D Dynamic Programming
 ```
     Easy
