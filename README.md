@@ -62,6 +62,8 @@
         110. Balanced Binary Tree (Using global variable)
         100. Same Tree
         572. Subtree fo Another Tree
+    Medium
+        235. Lowest Common Ancestor of a Binary Search Tree
 ```
 
 ### 1-D Dynamic Programming
