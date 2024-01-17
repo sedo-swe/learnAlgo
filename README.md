@@ -62,6 +62,7 @@
         110. Balanced Binary Tree (Using global variable)
         100. Same Tree
         572. Subtree fo Another Tree
+        637. Average of Levels in Binary Tree (BFS / DFS)
     Medium
         235. Lowest Common Ancestor of a Binary Search Tree
 ```
@@ -71,6 +72,28 @@
     Medium
         208. Implement Trie (Prefix Tree) -- using fixed size array to store strings
 
+```
+
+### Heap / Priority Queue
+```
+    Easy
+        703. Kth Largest Element in a Stream
+        1046. Last Stone Weight
+    Medium
+        973. K Closest Points to Origin
+```
+
+### Backtracking
+```
+    Medium
+        78. Subsets
+        39. Combination Sum -- Best for Backtracking
+```
+
+### Graphs
+```
+    Medium
+        200. Number of Islands -- BFS / DFS, Best for BFS / DFS
 ```
 
 ### 1-D Dynamic Programming
