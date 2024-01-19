@@ -96,6 +96,13 @@
         200. Number of Islands -- BFS / DFS, Best for BFS / DFS
 ```
 
+### Advanced Graphs
+```
+    Medium
+        1584. Min Cost to Connect All Points : using PriorityQueue and Set with Prim's algorithm
+
+```
+
 ### 1-D Dynamic Programming
 ```
     Easy
