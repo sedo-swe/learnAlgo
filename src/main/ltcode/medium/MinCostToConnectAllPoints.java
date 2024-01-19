@@ -121,6 +121,37 @@ public class MinCostToConnectAllPoints {
         return minCost;
     });
 
+    IntMinCostToConnectAllPoints intMinCostToConnectAllPointsSol = (points -> {
+        int n = points.length;
+        int[] dist = new int[n];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        int total = 0;
+
+        for(int p = 0; p < n-1; p++){
+            int leastDist = Integer.MAX_VALUE;
+            int leastPoint = -1;
+            for(int p2 = p+1; p2 < n; p2++){
+                dist[p2] = Math.min(dist[p2], getDist(points[p],points[p2]));
+                if(leastDist > dist[p2]){
+                    leastDist = dist[p2];
+                    leastPoint = p2;
+                }
+            }
+            int[] temp = points[p+1];
+            points[p+1] = points[leastPoint];
+            points[leastPoint] = temp;
+            int temp2 = dist[p+1];
+            dist[p+1] = dist[leastPoint];
+            dist[leastPoint] = temp2;
+            total += leastDist;
+        }
+        return total;
+    });
+
+    public int getDist(int[] p1, int[] p2){
+        return (Math.abs(p1[0]-p2[0]) + Math.abs(p1[1]-p2[1]));
+    }
+
 
     public void test(IntMinCostToConnectAllPoints func) {
         int[][] points1 = new int[][] {{0, 0}, {2, 2}, {3, 10}, {5, 2}, {7, 0}};
@@ -134,5 +165,6 @@ public class MinCostToConnectAllPoints {
         MinCostToConnectAllPoints minCost = new MinCostToConnectAllPoints();
 //        minCost.test(minCost.exampleOfNestedList);
         minCost.test(minCost.solByPrim);
+        minCost.test(minCost.intMinCostToConnectAllPointsSol);
     }
 }
