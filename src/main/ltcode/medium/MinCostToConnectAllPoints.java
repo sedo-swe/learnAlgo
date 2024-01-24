@@ -121,6 +121,9 @@ public class MinCostToConnectAllPoints {
         return minCost;
     });
 
+    /**
+     *  Time: O(n^2), Space: O(n)
+     */
     IntMinCostToConnectAllPoints intMinCostToConnectAllPointsSol = (points -> {
         int n = points.length;
         int[] dist = new int[n];

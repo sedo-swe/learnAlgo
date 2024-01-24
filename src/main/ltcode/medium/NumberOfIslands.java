@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- *  78. Subsets (Medium)
+ *  200. Number of Islands (Medium)
  */
 @FunctionalInterface
 interface IntNumberOfIslands {

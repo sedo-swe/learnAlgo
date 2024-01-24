@@ -94,6 +94,7 @@
 ```
     Medium
         200. Number of Islands -- BFS / DFS, Best for BFS / DFS
+        133. Clone Graph
 ```
 
 ### Advanced Graphs
@@ -131,3 +132,19 @@
 
 
 SortList : Find middle of linked list
+
+
+<HR>
+
+## * Must review before interview
+```
+    Easy
+        637. Average of Levels in Binary Tree (BFS / DFS)
+    Medium
+        78. Subsets
+        39. Combination Sum -- Best for Backtracking
+        200. Number of Islands
+        973. K Closest Points to Origin
+        1584. Min Cost to Connect All Points -- Prim's algorithm
+        198. House Robber -- DP
+```

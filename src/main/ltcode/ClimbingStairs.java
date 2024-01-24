@@ -27,6 +27,20 @@ public class ClimbingStairs {
         return result;
     }
 
+    Map<Integer, Integer> mem4Iter = new HashMap<Integer, Integer>();
+    IntClimbingStairs climbingStairsIter = ((n) -> {
+        mem4Iter.put(1, 1);
+        mem4Iter.put(2, 2);
+        if (n < 3) {
+            return mem4Iter.get(n);
+        }
+        for (int i = 3; i <= n; i++) {
+            int ith = mem4Iter.get(i - 2) + mem4Iter.get(i - 1);
+            mem4Iter.put(i, ith);
+        }
+        return mem4Iter.get(n);
+    });
+
     public void test(IntClimbingStairs func) {
         System.out.println("Expected: 2, Actual: " + func.climbStairs(2));
         System.out.println("Expected: 3, Actual: " + func.climbStairs(3));
@@ -37,6 +51,9 @@ public class ClimbingStairs {
 
     public static void main(String[] args) {
         ClimbingStairs climbingStairs = new ClimbingStairs();
+        System.out.println("= Recursive =====");
         climbingStairs.test(climbingStairs.climbingStairs1st);
+        System.out.println("= Iterate =======");
+        climbingStairs.test(climbingStairs.climbingStairsIter);
     }
 }
