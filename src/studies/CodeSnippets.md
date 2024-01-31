@@ -24,8 +24,13 @@ AND         &
 OR          |
 NOT         ~
 XOR         ^
+        1^1: 0, 1^0 or 0^1:1, 0^0: 0
 Left shift  <<
 Right shift >>
+
+Integer.toBinaryString(5) ==> "101"
+Integer.toBinaryString(-1) ==> "11111111111111111111111111111111"
+Integer.parseInt("101", 2) ==> 5
 
 ```
    

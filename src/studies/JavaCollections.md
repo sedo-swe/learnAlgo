@@ -55,4 +55,11 @@
              pq.add(new Node(entry.getKey(), entry.getValue()));
          }
          ```
+
+3. ***List***
+   1. ArrayList
+      List<Integer> alist = new ArrayList<>();
+      alist.add(node.val);
+      alist.get(level);
+      alist.set(level, Math.max(alist.get(level), node.val);
           

@@ -127,6 +127,8 @@
 ```
     Easy
         190. Reverse Bits
+    Medium
+        371. Sum of Two Integers : how to handle carry over with bit operation and shift
 ```
 
 

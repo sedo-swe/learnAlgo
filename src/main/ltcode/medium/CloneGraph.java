@@ -133,6 +133,122 @@ public class CloneGraph {
         System.out.println("  Expected: [[2,4],[1,3],[2,4],[1,3]], Actual (BFS): " + this.printNodeToStringBFS(func.cloneGraph(test1_01)));
     }
 
+
+    /*
+        Tina's solution
+     */
+    public static Node bfsCloneGraph(Node node) {
+        Map<Node, Node> copiesMap = new LinkedHashMap<>();
+
+        Set<Node> processed = new HashSet<>();
+        Queue<Node> queue = new ArrayDeque<>();
+
+        copiesMap.put(node, new Node(node.val));
+        queue.add(node);
+
+        while (!queue.isEmpty()) {
+            Node current = queue.remove();
+            Node currentCopy = copiesMap.get(current);
+
+            for (Node neighbor : current.neighbors) {
+                if (!copiesMap.containsKey(neighbor)) { // not discovered
+                    // The neighbor is being discovered for the first time, which means the edge is being walked for the first
+                    // time
+                    Node neighborCopy = new Node(neighbor.val);
+
+                    currentCopy.neighbors.add(neighborCopy);
+                    neighborCopy.neighbors.add(currentCopy);
+
+                    copiesMap.put(neighbor, neighborCopy);
+                    queue.add(neighbor);
+                } else if (!processed.contains(neighbor)) {
+                    // even though the neighbor has been discovered, this is the first time we are walking this edge
+                    Node neighborCopy = copiesMap.get(neighbor);
+                    currentCopy.neighbors.add(neighborCopy);
+                    neighborCopy.neighbors.add(currentCopy);
+                }
+            }
+            processed.add(current);
+        }
+
+        return new ArrayList<>(copiesMap.values()).get(0);
+    }
+
+    public static Node dfsCloneGraph(Node node) {
+        Map<Node, Node> copiesMap = new LinkedHashMap<>();
+        copiesMap.put(node, new Node(node.val));
+        Set<Node> processed = new HashSet<>();
+        dfsCloneGraphHelper(node, copiesMap, processed);
+
+        return copiesMap.get(node);
+    }
+
+    private static void dfsCloneGraphHelper(Node node, Map<Node, Node> copiesMap, Set<Node> processed) {
+        Node nodeCopy = copiesMap.get(node);
+
+        for (Node neighbor : node.neighbors) {
+            if (!copiesMap.containsKey(neighbor)) { // not discovered
+                // The neighbor is being discovered for the first time, which means the edge is being walked for the first
+                // time
+                Node neighborCopy = new Node(neighbor.val);
+
+                nodeCopy.neighbors.add(neighborCopy);
+                neighborCopy.neighbors.add(nodeCopy);
+
+                copiesMap.put(neighbor, neighborCopy);
+
+                dfsCloneGraphHelper(neighbor, copiesMap, processed);
+            } else if (!processed.contains(neighbor)) {
+                // even though the neighbor has been discovered, this is the first time we are walking this edge
+                Node neighborCopy = copiesMap.get(neighbor);
+                nodeCopy.neighbors.add(neighborCopy);
+                neighborCopy.neighbors.add(nodeCopy);
+            }
+        }
+
+        processed.add(node);
+    }
+
+    public static void bfsOutputGraph(Node node) {
+        Set<Node> discovered = new HashSet<>();
+        Queue<Node> queue = new ArrayDeque<>();
+        queue.add(node);
+        discovered.add(node);
+
+        while (!queue.isEmpty()) {
+            Node current = queue.remove();
+            System.out.println("Visiting " + current.val);
+            for (Node neighbor : current.neighbors) {
+                if (!discovered.contains(neighbor)) {
+                    queue.add(neighbor);
+                    discovered.add(neighbor);
+                }
+            }
+        }
+        System.out.println();
+    }
+
+    public void testSolution() {
+        Node test1_01 = new Node(1);
+        Node test1_02 = new Node(2);
+        Node test1_03 = new Node(3);
+        Node test1_04 = new Node(4);
+        test1_01.neighbors.add(test1_02);
+        test1_01.neighbors.add(test1_04);
+        test1_02.neighbors.add(test1_01);
+        test1_02.neighbors.add(test1_03);
+        test1_03.neighbors.add(test1_02);
+        test1_03.neighbors.add(test1_04);
+        test1_04.neighbors.add(test1_01);
+        test1_04.neighbors.add(test1_03);
+        System.out.println("\n\n\n + Solution from Tina");
+        System.out.println("  Expected: [[2,4],[1,3],[2,4],[1,3]], Actual (DFS): ");
+        this.bfsOutputGraph(bfsCloneGraph(test1_01));
+        System.out.println("  Expected: [[2,4],[1,3],[2,4],[1,3]], Actual (BFS): ");
+        this.bfsOutputGraph(dfsCloneGraph(test1_01));
+
+    }
+
     public static void main(String[] args) {
         CloneGraph cg = new CloneGraph();
         System.out.println("= DFS =======");
@@ -140,5 +256,6 @@ public class CloneGraph {
         System.out.println();
         System.out.println("= BFS =======");
         cg.test(cg.intCloneGraphBFS);
+        cg.testSolution();
     }
 }
