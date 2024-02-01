@@ -77,7 +77,7 @@ public class FindLargestValueInEachTreeRow {
         }
 
         if (level == largest.size()) {
-            largest.add(node.val);
+            largest.add(level, node.val);
         } else {
             largest.set(level, Math.max(largest.get(level), node.val));
         }
@@ -100,10 +100,12 @@ public class FindLargestValueInEachTreeRow {
         System.out.println("Expected: [1, 3], Actual: " + func.largestValues(t02_01));
     }
 
+
     public static void main(String[] args) {
         FindLargestValueInEachTreeRow f1 = new FindLargestValueInEachTreeRow();
         f1.test(f1.intFindLargestValueInEachTreeRow);
         f1.test(f1.usingOneQueue);
+        System.out.println("DFS");
         f1.test(f1.solution);
     }
 }
