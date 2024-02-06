@@ -1,4 +1,4 @@
-package main.ltcode;
+package main.ltcode.easy;
 
 import java.util.Arrays;
 import java.util.HashMap;

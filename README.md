@@ -19,14 +19,17 @@
     Medium
         86. Partition List (Linked List)
         167. Two Sum II - Input Array Is Sorted
+        15. 3Sum
 ```
 
 ### Sliding Window
+https://builtin.com/data-science/sliding-window-algorithm
 ```
     Easy
         121. Best Time to Buy and Sell Stock
     Medium
         3. Longest Substring Without Repeating Characters
+        1302. Deepest Leaves Sum
 ```
 
 ### Stack
