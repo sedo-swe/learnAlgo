@@ -1,14 +1,15 @@
 # learnAlgo
 - Problems from leetcode, which picked by neetcode.io
-### Arrays & Hashing
 
+### Arrays & Hashing
 ```
     Easy
         217. Contains Duplicate (Insertion Sort Algorithm)
         242. Valid Anagram  (HashMap KeySet comparison)
         1. Two Sum
-        
     Medium
+        49. Group Anagrams
+        238. Product of Array Except Self
         347. Top K Frequent Elements
 ``` 
 
@@ -29,7 +30,8 @@ https://builtin.com/data-science/sliding-window-algorithm
         121. Best Time to Buy and Sell Stock
     Medium
         3. Longest Substring Without Repeating Characters
-        1302. Deepest Leaves Sum
+        424. Longest Repeating Character Replacement
+        567. Permutation in String
 ```
 
 ### Stack
@@ -54,6 +56,11 @@ https://builtin.com/data-science/sliding-window-algorithm
         21. Merge Two Sorted Lists
         206. Reverse Linked List (Iteration w/ stack, exchange, Recursive)
         141. Linked List Cycle (using two pointers, find cycle)
+    
+    Medium
+        23. Merge k Sorted Lists
+        143. Reorder List
+        148. Sort List
 ```
 
 ### Trees
@@ -66,8 +73,11 @@ https://builtin.com/data-science/sliding-window-algorithm
         100. Same Tree
         572. Subtree fo Another Tree
         637. Average of Levels in Binary Tree (BFS / DFS)
+        
     Medium
         235. Lowest Common Ancestor of a Binary Search Tree
+        515. Find Largest Value in Each Tree Row
+        1302. Deepest Leaves Sum
 ```
 
 ### Tries
@@ -88,6 +98,8 @@ https://builtin.com/data-science/sliding-window-algorithm
 
 ### Backtracking
 ```
+    Easy
+        257. Binary Tree Paths
     Medium
         78. Subsets
         39. Combination Sum -- Best for Backtracking
@@ -114,6 +126,16 @@ https://builtin.com/data-science/sliding-window-algorithm
         746. Min Cost Climbing Stairs
 ```
 
+### 2-D Dynamic Programming
+```
+    Easy
+```
+
+### Greedy
+```
+    Easy
+```
+
 ### Intervals
 ```
     Easy
@@ -124,6 +146,7 @@ https://builtin.com/data-science/sliding-window-algorithm
 ```
     Easy
         202. Happy Number
+        66. Plus One
 ```
 
 ### Bit Manipulation
