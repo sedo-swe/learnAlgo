@@ -28,10 +28,12 @@ https://builtin.com/data-science/sliding-window-algorithm
 ```
     Easy
         121. Best Time to Buy and Sell Stock
+        MAXIMUM SUM SUBARRAY OF SIZE K
     Medium
         3. Longest Substring Without Repeating Characters
         424. Longest Repeating Character Replacement
         567. Permutation in String
+        
 ```
 
 ### Stack
@@ -176,3 +178,6 @@ SortList : Find middle of linked list
         1584. Min Cost to Connect All Points -- Prim's algorithm
         198. House Robber -- DP
 ```
+
+## Readable
+- [Sliding Window Algorithm Explained](https://builtin.com/data-science/sliding-window-algorithm)
