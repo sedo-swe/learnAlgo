@@ -46,6 +46,34 @@ public class DeepestLeavesSum {
         return sum;
     });
 
+    IntDeepestLeavesSum intDeepestLeavesSumBFSTwoQueues = (root -> {
+        Queue<TreeNode> current = new LinkedList<>();
+        Queue<TreeNode> next = new LinkedList<>();
+
+        current.add(root);
+
+        int sum = 0;
+        while (!current.isEmpty()) {
+            TreeNode toProcess = current.poll();
+
+            sum += toProcess.val;
+            if (toProcess.left != null) {
+                next.add(toProcess.left);
+            }
+            if (toProcess.right != null) {
+                next.add(toProcess.right);
+            }
+
+            if (current.isEmpty() && !next.isEmpty()) {
+                current = next;
+                next = new LinkedList<>();
+                sum = 0;
+            }
+        }
+
+        return sum;
+    });
+
     /*
         The time complexity of this solution is O(n), where n is the number of nodes in the binary tree.
         This is because we need to visit each node once in order to calculate the sum of the deepest leaves.

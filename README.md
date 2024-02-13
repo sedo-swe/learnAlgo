@@ -112,6 +112,7 @@ https://builtin.com/data-science/sliding-window-algorithm
     Medium
         200. Number of Islands -- BFS / DFS, Best for BFS / DFS
         133. Clone Graph
+        Maze -- BFS / DFS
 ```
 
 ### Advanced Graphs
@@ -176,6 +177,7 @@ SortList : Find middle of linked list
         200. Number of Islands
         973. K Closest Points to Origin
         1584. Min Cost to Connect All Points -- Prim's algorithm
+        1302. Deepest Leaves Sum -- Trees, how to distinguish levels in tree with BFS, DFS
         198. House Robber -- DP
 ```
 
