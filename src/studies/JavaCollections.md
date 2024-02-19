@@ -21,7 +21,45 @@
             });
 
         b.  PriorityQueue<Integer> maxHeap = new PriorityQueue<Integer>(Collections.reverseOrder());
+        c.  PriorityQueue<Integer> heap3 = new PriorityQueue<>(Comparator.reverseOrder());
       * PriorityQueue<Integer> minHeap = new PriorityQueue<Integer>();
+```java
+        import java.util.*; 
+        import java.io.*;
+        import javafx.util.Pair;
+
+        class GFG {
+        public static void main(String[] args) {
+
+            // Priority Queue implementing min heap of Pairs 
+            // Creating instance of PriorityQueue by passing  
+            // Lambda expression as a constructor parameter. 
+            PriorityQueue<Pair<Integer, String>> pq =  
+                                       new PriorityQueue<>((a, b) -> a.getKey() - b.getKey()); 
+                   
+            // Adding objects of Pair<K, V> class by passing  
+            // keys and values as parameter in Pair constructor 
+            pq.add(new Pair<>(8, "fox")); 
+            pq.add(new Pair<>(4, "quick")); 
+            pq.add(new Pair<>(2, "the")); 
+            pq.add(new Pair<>(6, "brown")); 
+                  
+            // Printing min heap based on the priority 
+            while(!pq.isEmpty()){ 
+                System.out.print(pq.remove() +" "); 
+            }
+            // add and remove will throw exception when it can't
+
+           pq.offer(new Pair<>(9, "zebra"));
+
+           // Printing min heap based on the priority 
+           while(!pq.isEmpty()){
+              System.out.print(pq.poll() +" ");
+           }
+           // offer and poll will return false & null when it can't
+        }
+    }
+```
 ** https://www.baeldung.com/cs/priority-queue
    
 ### Map Interface ###
@@ -55,6 +93,48 @@
              pq.add(new Node(entry.getKey(), entry.getValue()));
          }
          ```
+      5. Merge
+         ```java
+         Map<String,Integer> map = new HashMap();
+         // map.merge(key, value, remappingFunction)
+         map.put("Sana", 70);
+         int val = map.merge("Sara", 90, (val1, val2) -> val1+val2);    // Put 90 with Sara as there is no Sara in map
+         val = results.merge("Sara", 76, (val1, val2) -> val1+val2);    // Put 166 with Sara as a result of 90 (value from map) + 76
+         ```
+      6. ComputeIfAbsent
+         ```java
+         // If key already exists, then Mapping Function isn't triggered
+         Map<String, Integer> stringLength = new HashMap<>();
+         stringLength.put("John", 5);
+         assertEquals((long)stringLength.computeIfAbsent("John", s -> s.length()), 5);
+         
+         // If key doesn't exists, then Mapping Function is triggered
+         Map<String, Integer> stringLength = new HashMap<>();
+         assertEquals((long)stringLength.computeIfAbsent("John", s -> s.length()), 4);
+         assertEquals((long)stringLength.get("John"), 4);
+         ```
+      7. getOrDefault
+         ```java
+         Map<String, String> map = new HashMap<>();
+         String value = map.getOrDefault("some key", "NOT_FOUND");
+         
+      * computeIfAbsent vs getOrDefault
+        -> They both return when there is no value to the key, but difference is computeIfAbsent will store back the returned value, while getOrDefault doesn't.
+         ```java
+        static final String NOT_FOUND = "not found";
+        Map<String, String> map1 = ...
+        String value = map1.getOrDefault("some key", NOT_FOUND);
+        //... do some processing
+        // now check if our key exists in the Map
+        System.out.println(map1.containsKey("some key")); // prints "false"
+        
+        Map<String, String> map2 = ...
+        String value = map2.computeIfAbsent("some key", (k) -> NOT_FOUND);
+        //... do some processing
+        // now check if our key exists in the Map
+        System.out.println(map2.containsKey("some key")); // prints "true"
+```
+```
 
 3. ***List***
    1. ArrayList

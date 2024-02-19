@@ -1,4 +1,6 @@
-## Array Copy
+## Array 
+
+### 1. Copy
 ```agsl
 int[] test1 = {1, 2, 3};
 int[] test1_1 = Arrays.copyOf(test1, test1.length + 1);
@@ -14,6 +16,23 @@ System.arraycopy(test2, 0, test2_1, 1, test2.length);
 test2_1[0] = 1;
 
 ==> Expected: 1345, Actual: 1345
+```
+
+### 2. Contains
+```java
+    String[] vowels = { "A", "I", "E", "O", "U" };
+    List<String> al = Arrays.asList(vowels);
+    System.out.println(al.contains("A"));
+```
+
+### 3. Split, Stream & To Array
+```java
+    String lines = "I Love Java 8 Stream!";
+
+    // split by space, uppercase, and convert to Array
+    String[] result = Arrays.stream(lines.split("\\s+"))
+        .map(String::toUpperCase)
+        .toArray(String[]::new);
 ```
 
 ## Bit Manipulation
@@ -42,3 +61,4 @@ Integer.parseInt("101", 2) ==> 5
     Check easy.BinaryTreePaths
 
 ```
+
