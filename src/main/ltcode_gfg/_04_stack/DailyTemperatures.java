@@ -50,6 +50,27 @@ public class DailyTemperatures {
         return answer;
     });
 
+    IntDailyTemperatures dailyTemperaturesWhile = (temperatures -> {
+        int n = temperatures.length;
+        int[] answer = new int[n];
+        int hottest = 0;
+
+        for (int cur=n-1; cur>=0; cur--) {
+            int currTemp = temperatures[cur];
+            // if it is sorted by ascending order
+            if (currTemp >= hottest) {
+                hottest = currTemp;
+                continue;
+            }
+            int days = 1;
+            while (temperatures[cur+days] < currTemp) {
+                days += answer[cur+days];
+            }
+            answer[cur] = days;
+        }
+        return answer;
+    });
+
     public void test(IntDailyTemperatures func) {
         System.out.println("Expected: [1,1,4,2,1,1,0,0], Actual: " + PrintUtils.printIntArrayString(func.dailyTemperatures(new int[]{73,74,75,71,69,72,76,73})));
         System.out.println("Expected: [1,1,1,0], Actual: " + PrintUtils.printIntArrayString(func.dailyTemperatures(new int[]{30,40,50,60})));
@@ -61,5 +82,7 @@ public class DailyTemperatures {
         dt.test(dt.dailyTemperaturesNaive);
         System.out.println();
         dt.test(dt.dailyTemperaturesStack);
+        System.out.println();
+        dt.test(dt.dailyTemperaturesWhile);
     }
 }
