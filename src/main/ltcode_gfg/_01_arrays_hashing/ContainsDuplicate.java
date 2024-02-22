@@ -78,6 +78,8 @@ public class ContainsDuplicate {
     });
 
     // Accepted, 2ms (99.99%) / 57.9MB (9.33%)
+    // Using insertion sort, when it finds a correct position of each element,
+    // compare the value with a value of correct position and check whether they are same
     InternalFunction checkSolution1ms = ((nums) -> {
         for (int i = 1; i < nums.length; i++) {
             int current = nums[i];
@@ -89,6 +91,7 @@ public class ContainsDuplicate {
             }
 
             if (j >= 0 && current == nums[j]) {
+                System.out.println(nums[j]);
                 return true;
             }
 
@@ -100,10 +103,10 @@ public class ContainsDuplicate {
     public void test(InternalFunction func) {
         int[] nums1 = {1,2,3,1};
         System.out.println(func.verifyThereIsDuplicate(nums1) + ", [Expected]: true");
-        int[] nums2 = {1,2,3,4};
-        System.out.println(func.verifyThereIsDuplicate(nums2) + ", [Expected]: false");
-        int[] nums3 = {1,1,1,3,3,4,3,2,4,2};
-        System.out.println(func.verifyThereIsDuplicate(nums3) + ", [Expected]: true");
+//        int[] nums2 = {1,2,3,4};
+//        System.out.println(func.verifyThereIsDuplicate(nums2) + ", [Expected]: false");
+//        int[] nums3 = {1,1,1,3,3,4,3,2,4,2};
+//        System.out.println(func.verifyThereIsDuplicate(nums3) + ", [Expected]: true");
     }
 
     public static void main(String[] args) {
