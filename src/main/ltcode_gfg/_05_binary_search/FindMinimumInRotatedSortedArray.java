@@ -26,7 +26,7 @@ public class FindMinimumInRotatedSortedArray {
     });
 
     /*
-        O(n), O(1)
+        time: O(log n), space: O(1)
      */
     IntFindMinimumInRotatedSortedArray findMinNeet = (nums -> {
         // [4,5,6,7,0,1,2] [3,4,5,1,2]
