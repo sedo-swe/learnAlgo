@@ -102,13 +102,13 @@ public class LeftRightRace {
         left.add(178191598);
 
         right.add(901184049);
-        right.add(250354719);
-        right.add(803279036);
-        right.add(619324485);
-        right.add(820536743);
-        right.add(434519133);
-        right.add(286388385);
-        System.out.println(func.leftRightFaster(left, right, 661821));
+        right.add(2503547);
+        right.add(198032790);
+        right.add(366193244);
+        right.add(858205367);
+        right.add(43434519);
+        right.add(133286388);
+        System.out.println(func.leftRightFaster(left, right, 385661821));
 
         List<Integer> left1 = new ArrayList<>();
         List<Integer> right1 = new ArrayList<>();
@@ -146,6 +146,7 @@ public class LeftRightRace {
 
     public static void main(String[] args) {
         LeftRightRace ts = new LeftRightRace();
+        ts.test(ts.intLeftRightRaceInitial);
         ts.test(ts.intLeftRightRaceDP);
     }
 }
