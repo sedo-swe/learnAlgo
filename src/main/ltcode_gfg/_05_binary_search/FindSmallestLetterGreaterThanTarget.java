@@ -1,4 +1,4 @@
-package main.ltcode_gfg;
+package main.ltcode_gfg._05_binary_search;
 
 /**
  * 744. Find Smallest Letter Greater Than Target

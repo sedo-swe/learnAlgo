@@ -50,6 +50,7 @@ https://builtin.com/data-science/sliding-window-algorithm
         704. Binary Search
     Medium
         74. Search a 2D MatrixW
+        33. Search in Rotated Sorted Array (Medium)
 ```
 
 ### Linked List
