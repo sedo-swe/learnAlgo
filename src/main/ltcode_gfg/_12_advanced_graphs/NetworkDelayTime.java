@@ -6,6 +6,7 @@ import java.util.*;
  *  743. Network Delay Time (Medium)
  *      https://github.com/YaokaiYang-assaultmaster/LeetCode/blob/master/LeetcodeAlgorithmQuestions/743.%20Network%20Delay%20Time.md
  *      https://www.geeksforgeeks.org/what-are-the-differences-between-bellman-fords-and-dijkstras-algorithms/
+ *      https://www.baeldung.com/cs/dijkstra-vs-bellman-ford
  */
 @FunctionalInterface
 interface IntNetworkDelayTime {
@@ -71,8 +72,10 @@ class NetworkDelayTime {
             elapsedTime = Math.max(elapsedTime, curr[1]);
 
             for (Integer[] neighbor : edgesMap.getOrDefault(curr[0], new ArrayList<>())) {
-                if (!visitSet.contains(neighbor[0]) && (curr[1] + neighbor[1]) < timeToNode[neighbor[0]])
+                if (!visitSet.contains(neighbor[0]) && (curr[1] + neighbor[1]) < timeToNode[neighbor[0]]) {
+                    timeToNode[neighbor[0]] = curr[1] + neighbor[1];
                     minQueue.offer(new Integer[]{neighbor[0], curr[1] + neighbor[1]});
+                }
             }
         }
         return visitSet.size() == n ? elapsedTime : -1;
