@@ -2,6 +2,9 @@ package main.ltcode_gfg._06_linked_list;
 
 import main.ltcode_gfg.utils.ListNode;
 
+/**
+ *  19. Remove Nth Node From End of List (Medium)
+ */
 @FunctionalInterface
 interface IntRemoveNthNodeFromEndofList {
     ListNode removeNthFromEnd(ListNode head, int n);
