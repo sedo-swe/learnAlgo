@@ -64,6 +64,10 @@ https://builtin.com/data-science/sliding-window-algorithm
         23. Merge k Sorted Lists
         143. Reorder List
         148. Sort List
+        19. Remove Nth Node From End of List
+        138. Copy List with Random Pointer
+        2. Add Two Numbers
+        287. Find the Duplicate Number (Medium): Use Cyclic sort
 ```
 
 ### Trees
@@ -120,6 +124,8 @@ https://builtin.com/data-science/sliding-window-algorithm
 ```
     Medium
         1584. Min Cost to Connect All Points : using PriorityQueue and Set with Prim's algorithm
+        743. Network Delay Time : Using Dijkstra
+        87. Cheapest Flights Within K Stops : Using Bellman-Ford
 
 ```
 
