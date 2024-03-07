@@ -1,7 +1,5 @@
 package main.ltcode_gfg._12_advanced_graphs;
 
-import jdk.internal.util.xml.impl.Pair;
-
 import java.util.*;
 
 /**
@@ -17,8 +15,7 @@ interface IntCheapestFlightsWithinKStops {
 
 public class CheapestFlightsWithinKStops {
     /*
-        Works, but cannot pass time limit exceeded
-        ==> After improving,
+        BFS
         passed, time: O (n^2), space: O (n)
      */
     public IntCheapestFlightsWithinKStops findFlightsBFS = ((n, flights, src, dst, k) -> {
@@ -38,69 +35,22 @@ public class CheapestFlightsWithinKStops {
         Queue<int[]> routes = new ArrayDeque<>();   // [city, stops, price]
         routes.offer(new int[]{src, 0, 0});
         while (!routes.isEmpty()) {
-            for (int i = routes.size(); i > 0; i--) {
-                int[] cur = routes.poll();
+            int[] cur = routes.poll();
 
-                if (cur[0] == dst) {
-                    minPrice = Math.min(cur[2], minPrice);
-                    continue;
-                }
-                if (cur[1] > k || !flightsMap.containsKey(cur[0]))
-                    continue;
-                for (Integer[] neighbor : flightsMap.get(cur[0])) {
-                    if (cur[2] + neighbor[1] < minPrice)
-                        routes.offer(new int[]{neighbor[0], cur[1] + 1, cur[2] + neighbor[1]});
-                }
+            if (cur[0] == dst) {
+                minPrice = Math.min(cur[2], minPrice);
+                continue;
+            }
+            if (cur[1] > k || !flightsMap.containsKey(cur[0]))
+                continue;
+            for (Integer[] neighbor : flightsMap.get(cur[0])) {   // [city, price]
+                if (cur[2] + neighbor[1] < minPrice)
+                    routes.offer(new int[]{neighbor[0], cur[1] + 1, cur[2] + neighbor[1]});
             }
         }
         return minPrice == Integer.MAX_VALUE ? -1 : minPrice;
     });
 
-    /*
-        Works, but cannot pass time limit exceeded
-     */
-    public IntCheapestFlightsWithinKStops findFlightsBFS2 = ((n, flights, src, dst, k) -> {
-        // Create a map to store flights information
-        Map<Integer, List<int[]>> flightsMap = new HashMap<>();
-        for (int[] flight : flights) {
-            flightsMap.computeIfAbsent(flight[0], key -> new ArrayList<>()).add(new int[]{flight[1], flight[2]});
-        }
-
-        // Use a Queue for BFS traversal
-        Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[]{src, 0, 0}); // [city, stops, price]
-        int minPrice = Integer.MAX_VALUE;
-
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            for (int i = 0; i < size; i++) {
-                int[] cur = queue.poll();
-                int city = cur[0];
-                int stops = cur[1];
-                int price = cur[2];
-
-                if (city == dst) {
-                    minPrice = Math.min(minPrice, price);
-                    continue;
-                }
-
-                if (stops > k || price > minPrice) {
-                    continue;
-                }
-
-                if (!flightsMap.containsKey(city)) {
-                    continue;
-                }
-                for (int[] neighbor : flightsMap.get(city)) {
-                    int nextCity = neighbor[0];
-                    int nextPrice = price + neighbor[1];
-                    queue.offer(new int[]{nextCity, stops + 1, nextPrice});
-                }
-            }
-        }
-
-        return minPrice == Integer.MAX_VALUE ? -1 : minPrice;
-    });
 
     /*
         Bellman-Ford
@@ -214,6 +164,40 @@ public class CheapestFlightsWithinKStops {
         return dist[dst];
     });
 
+    int minPrice = Integer.MAX_VALUE, dst = 0, k = 0;
+    Map<Integer, List<Integer[]>> flightsMap; // key: source, value: [dest, price]
+    public IntCheapestFlightsWithinKStops findFlightsDFS = ((n, flights, src, _dst, _k) -> {
+        flightsMap = new HashMap<>();
+        dst = _dst;
+        k = _k;
+
+        boolean dstHasIncomingFlight = false;
+        for (int[] flight : flights) {
+            flightsMap.computeIfAbsent(flight[0], ignored -> new ArrayList<>()).add(new Integer[]{flight[1], flight[2]});
+            if (flight[1] == dst)
+                dstHasIncomingFlight = true;
+        }
+
+        // Early termination
+        if ((!flightsMap.containsKey(src) && src != dst) || !dstHasIncomingFlight) return -1;
+        if (src == dst) return 0;
+
+        dfs(src, 0, 0);
+        return minPrice == Integer.MAX_VALUE ? -1 : minPrice;
+    });
+
+    private void dfs(int city, int price, int stops) {
+        if (city == dst) {
+            minPrice = Math.min(price, minPrice);
+            return;
+        }
+        if (price > minPrice || stops > k || !flightsMap.containsKey(city)) return;
+        for (Integer[] neighbor : flightsMap.get(city)) {
+            dfs(neighbor[0], price + neighbor[1], stops + 1);
+        }
+        return;
+    }
+
     public void test(IntCheapestFlightsWithinKStops func) {
         System.out.println("Expected: 40, Actual: " + func.findCheapestPrice(5, new int[][]{{0,1,100},{0,2,100},{0,3,10},{1,2,100},{1,4,10},{2,1,10},{2,3,100},{2,4,100},{3,2,10},{3,4,100}}, 0, 4, 3));
         System.out.println("Expected: 700, Actual: " + func.findCheapestPrice(4, new int[][]{{0,1,100},{1,2,100}, {2,0,100},{1,3,600},{2,3,200}}, 0, 3, 1));
@@ -232,22 +216,33 @@ public class CheapestFlightsWithinKStops {
                 2));
     }
 
+    public void t(Integer integer) {
+        integer = 10;
+        return;
+    }
     public static void main(String[] args) {
         CheapestFlightsWithinKStops cf = new CheapestFlightsWithinKStops();
         cf.test(cf.findFlightsBFS);
         System.out.println();
 //        cf.test(cf.findFlightsBFS2);
 //        System.out.println();
-        cf.test(cf.bellmanFord);
-        System.out.println();
-        cf.test(cf.bellmanFordImproved);
-        System.out.println();
-        cf.test(cf.dijkstra);
+//        cf.test(cf.bellmanFord);
+//        System.out.println();
+//        cf.test(cf.bellmanFordImproved);
+//        System.out.println();
+//        cf.test(cf.dijkstra);
+        System.out.println("\n DFS");
+        cf.test(cf.findFlightsDFS);
 
         Set<String> t = new HashSet<>();
         t.add(String.format("%d-%d", 1, 0));
         System.out.println(t.contains(String.format("%d-%d", 1, 0)));
         System.out.println(t.contains(String.format("%d-%d", 1, 1)));
         System.out.println(String.format("%d-%d", 1, 1));
+
+        Integer t1 = 100;
+        System.out.println(t1);
+        cf.t(t1);
+        System.out.println(t1);
     }
 }
