@@ -108,5 +108,6 @@ public class BinaryTreeRightSideView {
         b.test(b.bfsTraverse);
         b.test(b.dfsTraverse);
         b.test(b.dfsTraverseImproved);
+
     }
 }

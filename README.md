@@ -86,6 +86,7 @@ https://builtin.com/data-science/sliding-window-algorithm
         515. Find Largest Value in Each Tree Row
         1302. Deepest Leaves Sum
         102. Binary Tree Level Order Traversal : Tree level
+        1448. Count Good Nodes in Binary Tree (Medium)
 ```
 
 ### Tries
