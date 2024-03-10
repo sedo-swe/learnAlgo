@@ -87,6 +87,7 @@ https://builtin.com/data-science/sliding-window-algorithm
         1302. Deepest Leaves Sum
         102. Binary Tree Level Order Traversal : Tree level
         1448. Count Good Nodes in Binary Tree (Medium)
+        230. Kth Smallest Element in a BST (Medium) --> Visiting in order BST would be ordered
 ```
 
 ### Tries
