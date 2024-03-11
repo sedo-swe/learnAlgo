@@ -86,8 +86,8 @@ https://builtin.com/data-science/sliding-window-algorithm
         515. Find Largest Value in Each Tree Row
         1302. Deepest Leaves Sum
         102. Binary Tree Level Order Traversal : Tree level
-        1448. Count Good Nodes in Binary Tree (Medium)
-        230. Kth Smallest Element in a BST (Medium) --> Visiting in order BST would be ordered
+        1448. Count Good Nodes in Binary Tree
+        230. Kth Smallest Element in a BST --> Visiting in order BST would be ordered
 ```
 
 ### Tries
@@ -137,6 +137,9 @@ https://builtin.com/data-science/sliding-window-algorithm
     Easy
         70. Climbing Stairs
         746. Min Cost Climbing Stairs
+
+    Medium        
+        5. Longest Palindromic Substring
 ```
 
 ### 2-D Dynamic Programming
