@@ -88,6 +88,7 @@ https://builtin.com/data-science/sliding-window-algorithm
         102. Binary Tree Level Order Traversal : Tree level
         1448. Count Good Nodes in Binary Tree
         230. Kth Smallest Element in a BST --> Visiting in order BST would be ordered
+        105. Construct Binary Tree from Preorder and Inorder Traversal
 ```
 
 ### Tries
@@ -192,6 +193,7 @@ SortList : Find middle of linked list
         1584. Min Cost to Connect All Points -- Prim's algorithm
         1302. Deepest Leaves Sum -- Trees, how to distinguish levels in tree with BFS, DFS
         198. House Robber -- DP
+        87. Cheapest Flights Within K Stops : Using Bellman-Ford
 ```
 
 ## Readable
